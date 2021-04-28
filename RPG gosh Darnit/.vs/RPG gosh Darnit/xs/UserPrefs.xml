@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{683851CA-16F6-107B-B195-0996DACF10CE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/npcDialog.cs">
+    <Files>
+      <File FileName="Assets/Player.cs" Line="139" Column="7" />
+      <File FileName="Assets/NPC.cs" Line="74" Column="73" />
+      <File FileName="Assets/dialogFunction.cs" Line="18" Column="30" />
+      <File FileName="Assets/npcDialog.cs" Line="35" Column="69" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RPG gosh Darnit" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="npcDialog.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="82592334-9372-4dcc-8089-58307159663b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
